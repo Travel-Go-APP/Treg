@@ -26,8 +26,9 @@
  
 ### 개발 도구
 - 프론트 : Flutter (Dart Version: >=2.18.6 <3.0.0)
-- 백앤드 : Spring Boot / bash / gradle / Java
-- 시스템 : EC2, S3, AWS
+- 백앤드 : Java / Spring(boot, gradle) / JPA / MySQL / RDS
+- 시스템 : GCP(APP Engine), AWS S3, GIT, ERD Cloud, Notion
 - 디자인 : Figma
+- API   : Naver MAP, 한국 관광공사 API, Kakao Map(GeoCoding)
 
 # 설계
