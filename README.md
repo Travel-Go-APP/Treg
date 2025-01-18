@@ -41,7 +41,7 @@
 
 # 설계
 ### 시스템 흐름도
-![image](https://github.com/user-attachments/assets/71d503bf-b639-4f29-9d0a-f076fc46a01f)
+![image](https://github.com/user-attachments/assets/a021fa4e-cdfd-490d-9e69-c5ad05c30644)
 
 <details>
  <summary>
