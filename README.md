@@ -57,17 +57,15 @@
 - API   : Naver MAP, 한국 관광공사 API, Kakao Map(GeoCoding)
 
 # 설계
-### 시스템 흐름도
+### 👨‍💻 시스템 흐름도
 ![image](https://github.com/user-attachments/assets/a021fa4e-cdfd-490d-9e69-c5ad05c30644)
 
-### 명소
-![image](https://github.com/user-attachments/assets/edc97c36-4f84-4e69-a453-24b4aa87e60a)
-</details>
+### 🗺️ 명소
+![image](https://github.com/user-attachments/assets/7e43c47d-5877-4af0-9e75-a400b849a6b2)
 
-### 아이템
+### 🎁 아이템
 
-### UI 디자인
-
+### ✒️ UI 디자인
 
 # 주요 기능
 1. 조사하기
