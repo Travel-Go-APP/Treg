@@ -3,36 +3,53 @@
 **🏝️ 2024 관광데이터 활용 공모전 참가작 🏝️**
 
 [![image](https://github.com/user-attachments/assets/77bd835a-7bef-4740-9451-e2ff0efee288)](https://apps.apple.com/kr/app/treg/id6478799797)
+[ 이미지 클릭시 앱스토어로 이동합니다. ]
 
 </div>
 
 # 프로젝트 소개
-### 개발 기간
+
+### 📅 개발 기간
 2023.11.12 ~ 2024.10.13 (11개월 1일)
 
 **! 공모전 기한 포함 (2024.04.03 ~ 2024.10.23) !**
-### 맴버
-- 👑 팀장 / 프론트 / 기획 & 앱 개발 : 박준영
-- 팀원 / 프론트 / 기획 & 앱 개발 : 김해수
-- 팀원 / 백앤드 / 서버 : 황세동
-- 팀원 / 백앤드 / 서버 : 장현석
-### 개발 배경
-우리나라는 아름다운 자연경관과 풍부한 역사적 유산을 자랑하는 다양한 지역을 보유하고 있습니다. 하지만 많은 사람들이 주로 강원, 부산, 제주 등 유명한 관광지에만 관심을 가지는 경향이 있습니다. 그로 인해 우리나라에는 여전히 덜 알려지거나 방문되지 않은 지역들이 많습니다. 특히, 저출산과 고령화, 그리고 대도시로의 인구 집중 현상은 이러한 소외 지역에서 인구 감소 문제를 심화시키며 '지방 소멸'이라는 사회적 문제로 이어지고 있습니다.
 
-이 문제를 해결하기 위해서는 소외된 지역의 매력을 널리 알리고, 방문객을 유치하는 것이 중요합니다. 그러나 단순한 홍보만으로는 사람들의 방문 의욕을 충분히 자극하기 어렵습니다.
+### 🙋‍♂️ 맴버
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong><a href="https://github.com/PlayTheApp"><button>박준영</button></a></strong></td>
+      <td align="center"><strong><a href="https://github.com/haesookimDev"><button>김해수</button></a></strong></td>
+      <td align="center"><strong><a href="https://github.com/HwangSedong"><button>황세동</button></a></strong></td>
+      <td align="center"><strong><a href="https://github.com/Janghyeonsuk"><button>장현석</button></a></strong></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/92419169?v=4" width="100"></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/63633387?v=4" width="100"></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/107477778?v=4" width="100"></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/74901548?v=4" width="100"></td>
+    </tr>
+    <tr>
+      <td align="center">👑 PM</td>
+      <td align="center">Front-End</td>
+      <td align="center">Back-End</td>
+      <td align="center">Back-End</td>
+    </tr>
+    <tr>
+      <td align="center">기획, 디자인, 개발</a></td>
+      <td align="center">기능 구현, 테스트</a></td>
+      <td align="center">서버</a></td>
+      <td align="center">서버</a></td>
+    </tr>
+  </table>
+</div>
+<br>
+<br>
 
-이에 따라, 저희는 사용자들이 일상 속에서 다양한 지역의 숨겨진 명소와 독특한 매력을 발견하고 경험할 수 있는 참여형 서비스를 기획하였습니다.
+### 🚀 개발 배경
+![image](https://github.com/user-attachments/assets/50258687-c5d3-4eac-b7b5-f7a282f0eea4)
 
-**사용자가 직접 지역 곳곳을 탐방하며 숨겨진 명소와 특별한 아이템을 발견하고 이를 수집할 수 있는 구조**로 설계되었습니다.
-이를 통해 사용자는 전국 각지의 매력적인 장소를 경험하고, 다른 사용자들과 공유하거나 경쟁하면서 서비스 참여도를 높일 수 있습니다.
-
-서비스 개발을 진행하던 중, 공모전에 참여하면서 **관광데이터 API를 활용하여 명소 관련 데이터를 서비스에 동기화**하였습니다. 이를 통해 사용자들에게 보다 풍부하고 정확한 명소 정보를 제공할 수 있도록 개선하였습니다.
-또한, 사용자들이 서비스 내 활동을 통해 획득한 포인트나 재화를 지역 비즈니스에서 사용할 수 있는 할인 쿠폰으로 교환할 수 있는 구조를 설계하였습니다. 이를 통해 사용자들에게 실질적인 혜택을 제공함과 동시에 지역 경제 활성화를 도모할 수 있는 방향으로 기획안을 구체화하였습니다.
-
-### 목표
-사용자들이 전국의 다양한 지역을 깊이 있게 탐험하고, 현지의 매력을 더욱 잘 이해하고 사랑할 수 있도록 지원하는 것입니다. 이러한 경험을 통해 사용자는 지역 사회와 더 가까워지고, 지역 경제 활성화에 기여할 수 있습니다.
- 
-### 개발 도구
+### 🛠️ 개발 도구
 - 프론트 : Flutter (Dart Version: >=2.18.6 <3.0.0)
 - 백앤드 : Java / Spring(boot, gradle) / JPA / MySQL / RDS
 - 시스템 : GCP(APP Engine), AWS S3, GIT, ERD Cloud, Notion
@@ -43,23 +60,8 @@
 ### 시스템 흐름도
 ![image](https://github.com/user-attachments/assets/a021fa4e-cdfd-490d-9e69-c5ad05c30644)
 
-<details>
- <summary>
-  서비스 흐름도 (공모전.Ver)
- </summary>
- <img src="https://github.com/user-attachments/assets/a62be618-b10d-4bf1-abd4-abacba19d9d0"/>
-</details>
-
-### 명소 및 아이템
 ### 명소
 ![image](https://github.com/user-attachments/assets/edc97c36-4f84-4e69-a453-24b4aa87e60a)
-<details>
- <summary>
-  공모전 참여 전, 명소 설계
- </summary>
- <img src="https://github.com/user-attachments/assets/ee58ecfd-9632-4cee-9e16-bdf61e04ee66"/>
-
- 관광 명소 설계를 위해 **유명한 장소**, **숨겨진 장소**, **의미 있는 장소** 등을 종합적으로 고려하여 기획하고자 했습니다. 이를 구현하기 위해 초기에는 관련 자료를 직접 검색하고 데이터화하는 과정을 거쳤습니다. 하지만 **관광 API**를 활용하면서 이러한 자료조사 과정이 필요 없어졌고, 이를 통해 작업의 효율성을 크게 향상시킬 수 있었습니다.
 </details>
 
 ### 아이템
