@@ -62,7 +62,6 @@
 
 </div>
 
-
 # 설계
 ### 👨‍💻 시스템 흐름도
 ![image](https://github.com/user-attachments/assets/a021fa4e-cdfd-490d-9e69-c5ad05c30644)
@@ -70,9 +69,11 @@
 ### 🗺️ 명소
 ![image](https://github.com/user-attachments/assets/7e43c47d-5877-4af0-9e75-a400b849a6b2)
 
-### 🎁 아이템
+### 🎁 이벤트
+![image](https://github.com/user-attachments/assets/e1ca3cba-78b8-43b8-a86b-7e3d5080a1a4)
 
-### ✒️ UI 디자인
+### ✒️ 초기 디자인
+<img width="2558" alt="Frame 74" src="https://github.com/user-attachments/assets/03ef089f-880d-48b4-9fe2-aae2aeba823b" />
 
 # 주요 기능
 1. 조사하기 (명소 / 아이템 / 사건)
