@@ -52,12 +52,14 @@
 
 ### 명소 및 아이템
 ### 명소
-
+![image](https://github.com/user-attachments/assets/edc97c36-4f84-4e69-a453-24b4aa87e60a)
 <details>
  <summary>
-  공모전 참여 전,
+  공모전 참여 전, 명소 설계
  </summary>
  <img src="https://github.com/user-attachments/assets/ee58ecfd-9632-4cee-9e16-bdf61e04ee66"/>
+
+ 관광 명소 설계를 위해 **유명한 장소**, **숨겨진 장소**, **의미 있는 장소** 등을 종합적으로 고려하여 기획하고자 했습니다. 이를 구현하기 위해 초기에는 관련 자료를 직접 검색하고 데이터화하는 과정을 거쳤습니다. 하지만 **관광 API**를 활용하면서 이러한 자료조사 과정이 필요 없어졌고, 이를 통해 작업의 효율성을 크게 향상시킬 수 있었습니다.
 </details>
 
 ### 아이템
