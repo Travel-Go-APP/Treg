@@ -50,11 +50,18 @@
 ![image](https://github.com/user-attachments/assets/50258687-c5d3-4eac-b7b5-f7a282f0eea4)
 
 ### 🛠️ 개발 도구
-- 프론트 : Flutter (Dart Version: >=2.18.6 <3.0.0)
-- 백앤드 : Java / Spring(boot, gradle) / JPA / MySQL / RDS
-- 시스템 : GCP(APP Engine), AWS S3, GIT, ERD Cloud, Notion
-- 디자인 : Figma
-- API   : Naver MAP, 한국 관광공사 API, Kakao Map(GeoCoding)
+<div align="center">
+  
+|기술스택|이름|
+|:---|:---:|
+|**프론트엔드**|![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
+|**백엔드**|![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) / ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) / ![RDS](https://img.shields.io/badge/-amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) / JAVA / JPA |
+|**시스템**| ![amazons3](https://img.shields.io/badge/-amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) / ![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white) / ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white) / GCP(APP Engine) / ERD Cloud |
+|**API**|Naver MAP(지도), Tour API(관광 명소), Kakao Map(GeoCoding)|
+|**디자인**|![figma](https://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)|
+
+</div>
+
 
 # 설계
 ### 👨‍💻 시스템 흐름도
