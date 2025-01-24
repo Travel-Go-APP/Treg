@@ -79,29 +79,43 @@
 ### 🔍 조사하기
 | 명소 | 아이템 |
 | :---: | :---: |
-|![image](https://github.com/user-attachments/assets/956ab4c9-ed2b-4a5d-a08e-190ec7753bbd)|![image](https://github.com/user-attachments/assets/984964b5-10eb-4697-be5e-888f57608290)|
+|![gif](https://github.com/user-attachments/assets/956ab4c9-ed2b-4a5d-a08e-190ec7753bbd)|![gif](https://github.com/user-attachments/assets/984964b5-10eb-4697-be5e-888f57608290)|
 |근처에 획득하지 못한 명소가 존재한다면, <br> 해당 경위도로 마커를 찍습니다.|공통 아이템 or 지역 아이템을 획득합니다.|
 
 | 이벤트 |
 | :---: |
-|![image](https://github.com/user-attachments/assets/f13eba80-fe0c-4099-9d84-f98257ef3dbf)|
+|![gif](https://github.com/user-attachments/assets/f13eba80-fe0c-4099-9d84-f98257ef3dbf)|
 |상호작용 등 다양한 사건들이 발생합니다.|
 
-### 기록
+### 📑 기록
 | 명소 | 아이템 |
 | :---: | :---: |
-|||
+|![gif](https://github.com/user-attachments/assets/7cd64307-a6b5-4550-bb8b-c3a51f1e5406)|![gif](https://github.com/user-attachments/assets/4b17eea1-4b2e-4108-afc3-8372159bde0e)|
+|획득한 명소들을 확인할 수 있습니다. <br> (명소에 대한 소개글 확인 가능)|획득한 아이템들을 확인할 수 있습니다.|
 
 | 랭킹 |
 | :---: |
-||
+|![gif](https://github.com/user-attachments/assets/3588d179-b1ba-4812-be75-918faae75713)|
+|자정마다 랭킹 순위가 갱신됩니다.|
 
 ### 그 외
 | 뽑기 | 걷기 보상 |
 | :---: | :---: |
-|||
+|![gif](https://github.com/user-attachments/assets/f3221ea7-6118-4685-a56a-1ca607cc7f1c)|![gif](https://github.com/user-attachments/assets/f23b01d3-2fc2-486a-90ea-9f308d6af4b7)|
+|게임머니를 소비해서 TG/EXP/아이템을 획득합니다.|(일일 1번) 걸음 수를 채우면 보상을 획득합니다.|
 
-
-
+# 사용된 주요 패키지
+```yaml
+get: ^4.6.6 // GetX 상태관리 라이브러리
+kakao_flutter_sdk_user: ^1.7.0 // 카카오 로그인
+sign_in_with_apple: ^5.0.0 // 애플 로그인
+xtyle: ^0.1.3 // 폰트 관리
+geolocator: ^10.1.0 // 위치(GPS) 관련
+permission_handler: ^11.1.0 // 권한 확인 및 부여
+flutter_naver_map: ^1.1.2 // 네이버 지도
+pedometer: ^4.0.1 // 걸음 수(건강데이터)
+hive: ^2.2.3 // 로컬 저장소
+fluttertoast: ^8.2.5 // Toast Message
+```
 
 
