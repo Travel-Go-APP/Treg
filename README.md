@@ -5,6 +5,8 @@
 [![image](https://github.com/user-attachments/assets/77bd835a-7bef-4740-9451-e2ff0efee288)](https://apps.apple.com/kr/app/treg/id6478799797)
 [ 이미지 클릭시 앱스토어로 이동합니다 ]
 
+**! 현재는 배포 임시 중단 !**
+
 </div>
 
 # 프로젝트 소개
