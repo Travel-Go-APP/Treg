@@ -109,6 +109,7 @@
 # 사용된 주요 패키지
 ```yaml
 get: ^4.6.6 // GetX 상태관리 라이브러리
+flutter_dotenv: '5.1.0' // 환경 변수 관리
 kakao_flutter_sdk_user: ^1.7.0 // 카카오 로그인
 sign_in_with_apple: ^5.0.0 // 애플 로그인
 xtyle: ^0.1.3 // 폰트 관리
